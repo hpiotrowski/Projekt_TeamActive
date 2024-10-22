@@ -1,4 +1,4 @@
 # Projekt_TeamActive
-Aleksander Wysocki
-Hubert Piotrowski
+Aleksander Wysocki,
+Hubert Piotrowski,
 Marcel Kołek
